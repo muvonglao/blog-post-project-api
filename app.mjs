@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
   res.send("Hello TechUp!");
 });
 
-app.get("/articles", (req, res) => {
+app.get("/posts", (req, res) => {
   try {
     const page = parseInt(req.query.page) || 1;
     const limit = parseInt(req.query.limit) || 6;
@@ -28,7 +28,7 @@ app.get("/articles", (req, res) => {
       totalPages: Math.ceil(blogPosts.length / safeLimit),
       currentPage: safePage,
       limit: safeLimit,
-      articles: blogPosts.slice(startIndex, endIndex),
+      posts: blogPosts.slice(startIndex, endIndex),
     };
 
     if (endIndex < blogPosts.length) {
