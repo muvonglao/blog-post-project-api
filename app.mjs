@@ -1,11 +1,11 @@
 import express from "express";
-// import cors from "cors";
+import cors from "cors";
 import { blogPosts } from "./db/index.mjs";
 
 const app = express();
 const port = process.env.PORT || 4001;
 
-// app.use(cors());
+app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
@@ -14,24 +14,32 @@ app.get("/", (req, res) => {
 
 app.get("/posts", (req, res) => {
   try {
-    const page = parseInt(req.query.page) || 1;
-    const limit = parseInt(req.query.limit) || 6;
+    const page = Number(req.query.page) || 1;
+    const limit = Number(req.query.limit) || 6;
+    const category = req.query.category || "";
 
     const safePage = Math.max(1, page);
     const safeLimit = Math.max(1, Math.min(100, limit));
+
+    let filteredPosts = blogPosts;
+    if (category) {
+      filteredPosts = blogPosts.filter(
+        (post) => post.category.toLowerCase() === category.toLowerCase()
+      );
+    }
 
     const startIndex = (safePage - 1) * safeLimit;
     const endIndex = startIndex + safeLimit;
 
     const results = {
-      totalPosts: blogPosts.length,
-      totalPages: Math.ceil(blogPosts.length / safeLimit),
+      totalPosts: filteredPosts.length,
+      totalPages: Math.ceil(filteredPosts.length / safeLimit),
       currentPage: safePage,
       limit: safeLimit,
-      posts: blogPosts.slice(startIndex, endIndex),
+      posts: filteredPosts.slice(startIndex, endIndex),
     };
 
-    if (endIndex < blogPosts.length) {
+    if (endIndex < filteredPosts.length) {
       results.nextPage = safePage + 1;
     }
 
