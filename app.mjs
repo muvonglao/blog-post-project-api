@@ -1,11 +1,11 @@
 import express from "express";
-import cors from "cors";
+// import cors from "cors";
 import { blogPosts } from "./db/index.mjs";
 
 const app = express();
 const port = process.env.PORT || 4001;
 
-app.use(cors());
+// app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
