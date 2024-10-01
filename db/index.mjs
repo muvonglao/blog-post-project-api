@@ -315,7 +315,7 @@ export const blogPosts = [
   {
     image:
       "https://s3-alpha-sig.figma.com/img/3ea2/8bcb/636d99b02902d27079ff42418e0b9b97?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=k3t7587~fb~sPxIXkp5G7JTIBF03lZLiK5pFB6B73z2dsxFk0ieXhg-xfH9mdbdXpFOkWHU6hlYNhZqBURalRTGLGu6pDhbfX7Dyx7pXRYthqNPlXOP1ufefvPUvbJTHh-lrq1t~J41T9DxJWB9htNQiLuPiRjieOZesPDBOalDOgZFg0AJoYzqT1bxnjcIjJ1FpRS4yzDYtZxGqFU8hVq1i9kp96TFIyZZwyvyCHuLY2ilPTMXzn-pdPkrq3N~YNonDd~ktme690Lt41CO3TUk2ObZRNNyhgpDr5ZHzK2mnIuIS07QNpu1AvQftBqRONb55k4VDWkJSM6QmZJ4JIw__",
-    category: "Highlight",
+    category: "General",
     title: "The Art of Mindfulness: Finding Peace in a Busy World",
     description:
       "Discover the transformative power of mindfulness and how it can help you navigate the challenges of modern life with greater ease and contentment.",
@@ -363,7 +363,7 @@ export const blogPosts = [
   {
     image:
       "https://s3-alpha-sig.figma.com/img/3589/63c1/0a192fe8b6bbd21181cdc2b591296245?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=J8K~UZoL~-LqRaA4sblND9fHZRS3fVYH~bZSCaHz1t9ancisGe9wDl8k9wLNzS4gon9Q85yKxpotXqg35~ROmzThVxRiGAxSeZEuhVpqx~rrkfNcbNoXCC9x-f6p3FzEhmOARHyiJliUMF9jHd8cRvWyDyXlLyubAsw~WHpn4Uh06D0aUyTPpnS7cAHS-I~-pHYZn09BXTTN09AlNn9hLWHd2Qz4ThwMC67-BZYoYHfdJP6fXlzcYeCRbx4Fk4HBVs~F2h2Ji8Fq~sCCuprCw8UFoCMsCFTtqh77DMC0L6zgSlJ2TpKGSejTZWWVzDnURjuYFpLVxDyp4d0BIknECg__",
-    category: "Highlight",
+    category: "Inspiration",
     title: "The Power of Habits: Small Changes, Big Results",
     description:
       "Discover how small, consistent habits can lead to significant personal and professional growth over time.",
@@ -387,7 +387,7 @@ export const blogPosts = [
   {
     image:
       "https://s3-alpha-sig.figma.com/img/3ea2/8bcb/636d99b02902d27079ff42418e0b9b97?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=k3t7587~fb~sPxIXkp5G7JTIBF03lZLiK5pFB6B73z2dsxFk0ieXhg-xfH9mdbdXpFOkWHU6hlYNhZqBURalRTGLGu6pDhbfX7Dyx7pXRYthqNPlXOP1ufefvPUvbJTHh-lrq1t~J41T9DxJWB9htNQiLuPiRjieOZesPDBOalDOgZFg0AJoYzqT1bxnjcIjJ1FpRS4yzDYtZxGqFU8hVq1i9kp96TFIyZZwyvyCHuLY2ilPTMXzn-pdPkrq3N~YNonDd~ktme690Lt41CO3TUk2ObZRNNyhgpDr5ZHzK2mnIuIS07QNpu1AvQftBqRONb55k4VDWkJSM6QmZJ4JIw__",
-    category: "Highlight",
+    category: "General",
     title: "The Art of Mindfulness: Finding Peace in a Busy World",
     description:
       "Discover the transformative power of mindfulness and how it can help you navigate the challenges of modern life with greater ease and contentment.",
@@ -435,7 +435,7 @@ export const blogPosts = [
   {
     image:
       "https://s3-alpha-sig.figma.com/img/3589/63c1/0a192fe8b6bbd21181cdc2b591296245?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=J8K~UZoL~-LqRaA4sblND9fHZRS3fVYH~bZSCaHz1t9ancisGe9wDl8k9wLNzS4gon9Q85yKxpotXqg35~ROmzThVxRiGAxSeZEuhVpqx~rrkfNcbNoXCC9x-f6p3FzEhmOARHyiJliUMF9jHd8cRvWyDyXlLyubAsw~WHpn4Uh06D0aUyTPpnS7cAHS-I~-pHYZn09BXTTN09AlNn9hLWHd2Qz4ThwMC67-BZYoYHfdJP6fXlzcYeCRbx4Fk4HBVs~F2h2Ji8Fq~sCCuprCw8UFoCMsCFTtqh77DMC0L6zgSlJ2TpKGSejTZWWVzDnURjuYFpLVxDyp4d0BIknECg__",
-    category: "Highlight",
+    category: "Inspiration",
     title: "The Power of Habits: Small Changes, Big Results",
     description:
       "Discover how small, consistent habits can lead to significant personal and professional growth over time.",
@@ -459,7 +459,7 @@ export const blogPosts = [
   {
     image:
       "https://s3-alpha-sig.figma.com/img/3ea2/8bcb/636d99b02902d27079ff42418e0b9b97?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=k3t7587~fb~sPxIXkp5G7JTIBF03lZLiK5pFB6B73z2dsxFk0ieXhg-xfH9mdbdXpFOkWHU6hlYNhZqBURalRTGLGu6pDhbfX7Dyx7pXRYthqNPlXOP1ufefvPUvbJTHh-lrq1t~J41T9DxJWB9htNQiLuPiRjieOZesPDBOalDOgZFg0AJoYzqT1bxnjcIjJ1FpRS4yzDYtZxGqFU8hVq1i9kp96TFIyZZwyvyCHuLY2ilPTMXzn-pdPkrq3N~YNonDd~ktme690Lt41CO3TUk2ObZRNNyhgpDr5ZHzK2mnIuIS07QNpu1AvQftBqRONb55k4VDWkJSM6QmZJ4JIw__",
-    category: "Highlight",
+    category: "General",
     title: "The Art of Mindfulness: Finding Peace in a Busy World",
     description:
       "Discover the transformative power of mindfulness and how it can help you navigate the challenges of modern life with greater ease and contentment.",
@@ -507,7 +507,7 @@ export const blogPosts = [
   {
     image:
       "https://s3-alpha-sig.figma.com/img/3589/63c1/0a192fe8b6bbd21181cdc2b591296245?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=J8K~UZoL~-LqRaA4sblND9fHZRS3fVYH~bZSCaHz1t9ancisGe9wDl8k9wLNzS4gon9Q85yKxpotXqg35~ROmzThVxRiGAxSeZEuhVpqx~rrkfNcbNoXCC9x-f6p3FzEhmOARHyiJliUMF9jHd8cRvWyDyXlLyubAsw~WHpn4Uh06D0aUyTPpnS7cAHS-I~-pHYZn09BXTTN09AlNn9hLWHd2Qz4ThwMC67-BZYoYHfdJP6fXlzcYeCRbx4Fk4HBVs~F2h2Ji8Fq~sCCuprCw8UFoCMsCFTtqh77DMC0L6zgSlJ2TpKGSejTZWWVzDnURjuYFpLVxDyp4d0BIknECg__",
-    category: "Highlight",
+    category: "Inspiration",
     title: "The Power of Habits: Small Changes, Big Results",
     description:
       "Discover how small, consistent habits can lead to significant personal and professional growth over time.",
@@ -531,7 +531,7 @@ export const blogPosts = [
   {
     image:
       "https://s3-alpha-sig.figma.com/img/3ea2/8bcb/636d99b02902d27079ff42418e0b9b97?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=k3t7587~fb~sPxIXkp5G7JTIBF03lZLiK5pFB6B73z2dsxFk0ieXhg-xfH9mdbdXpFOkWHU6hlYNhZqBURalRTGLGu6pDhbfX7Dyx7pXRYthqNPlXOP1ufefvPUvbJTHh-lrq1t~J41T9DxJWB9htNQiLuPiRjieOZesPDBOalDOgZFg0AJoYzqT1bxnjcIjJ1FpRS4yzDYtZxGqFU8hVq1i9kp96TFIyZZwyvyCHuLY2ilPTMXzn-pdPkrq3N~YNonDd~ktme690Lt41CO3TUk2ObZRNNyhgpDr5ZHzK2mnIuIS07QNpu1AvQftBqRONb55k4VDWkJSM6QmZJ4JIw__",
-    category: "Highlight",
+    category: "General",
     title: "The Art of Mindfulness: Finding Peace in a Busy World",
     description:
       "Discover the transformative power of mindfulness and how it can help you navigate the challenges of modern life with greater ease and contentment.",
@@ -579,7 +579,7 @@ export const blogPosts = [
   {
     image:
       "https://s3-alpha-sig.figma.com/img/3589/63c1/0a192fe8b6bbd21181cdc2b591296245?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=J8K~UZoL~-LqRaA4sblND9fHZRS3fVYH~bZSCaHz1t9ancisGe9wDl8k9wLNzS4gon9Q85yKxpotXqg35~ROmzThVxRiGAxSeZEuhVpqx~rrkfNcbNoXCC9x-f6p3FzEhmOARHyiJliUMF9jHd8cRvWyDyXlLyubAsw~WHpn4Uh06D0aUyTPpnS7cAHS-I~-pHYZn09BXTTN09AlNn9hLWHd2Qz4ThwMC67-BZYoYHfdJP6fXlzcYeCRbx4Fk4HBVs~F2h2Ji8Fq~sCCuprCw8UFoCMsCFTtqh77DMC0L6zgSlJ2TpKGSejTZWWVzDnURjuYFpLVxDyp4d0BIknECg__",
-    category: "Highlight",
+    category: "Inspiration",
     title: "The Power of Habits: Small Changes, Big Results",
     description:
       "Discover how small, consistent habits can lead to significant personal and professional growth over time.",
@@ -603,7 +603,7 @@ export const blogPosts = [
   {
     image:
       "https://s3-alpha-sig.figma.com/img/3ea2/8bcb/636d99b02902d27079ff42418e0b9b97?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=k3t7587~fb~sPxIXkp5G7JTIBF03lZLiK5pFB6B73z2dsxFk0ieXhg-xfH9mdbdXpFOkWHU6hlYNhZqBURalRTGLGu6pDhbfX7Dyx7pXRYthqNPlXOP1ufefvPUvbJTHh-lrq1t~J41T9DxJWB9htNQiLuPiRjieOZesPDBOalDOgZFg0AJoYzqT1bxnjcIjJ1FpRS4yzDYtZxGqFU8hVq1i9kp96TFIyZZwyvyCHuLY2ilPTMXzn-pdPkrq3N~YNonDd~ktme690Lt41CO3TUk2ObZRNNyhgpDr5ZHzK2mnIuIS07QNpu1AvQftBqRONb55k4VDWkJSM6QmZJ4JIw__",
-    category: "Highlight",
+    category: "General",
     title: "The Art of Mindfulness: Finding Peace in a Busy World",
     description:
       "Discover the transformative power of mindfulness and how it can help you navigate the challenges of modern life with greater ease and contentment.",
@@ -651,7 +651,7 @@ export const blogPosts = [
   {
     image:
       "https://s3-alpha-sig.figma.com/img/3589/63c1/0a192fe8b6bbd21181cdc2b591296245?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=J8K~UZoL~-LqRaA4sblND9fHZRS3fVYH~bZSCaHz1t9ancisGe9wDl8k9wLNzS4gon9Q85yKxpotXqg35~ROmzThVxRiGAxSeZEuhVpqx~rrkfNcbNoXCC9x-f6p3FzEhmOARHyiJliUMF9jHd8cRvWyDyXlLyubAsw~WHpn4Uh06D0aUyTPpnS7cAHS-I~-pHYZn09BXTTN09AlNn9hLWHd2Qz4ThwMC67-BZYoYHfdJP6fXlzcYeCRbx4Fk4HBVs~F2h2Ji8Fq~sCCuprCw8UFoCMsCFTtqh77DMC0L6zgSlJ2TpKGSejTZWWVzDnURjuYFpLVxDyp4d0BIknECg__",
-    category: "Highlight",
+    category: "Inspiration",
     title: "The Power of Habits: Small Changes, Big Results",
     description:
       "Discover how small, consistent habits can lead to significant personal and professional growth over time.",
