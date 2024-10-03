@@ -55,6 +55,35 @@ app.get("/posts", (req, res) => {
   }
 });
 
+app.get("/search", (req, res) => {
+  const { keyword } = req.query;
+
+  if (!keyword) {
+    return res.status(400).json({ error: "Keyword is required" });
+  }
+
+  const results = blogPosts.filter(
+    (post) =>
+      post.title.toLowerCase().includes(keyword.toLowerCase()) ||
+      post.description.toLowerCase().includes(keyword.toLowerCase()) ||
+      post.content.toLowerCase().includes(keyword.toLowerCase()) ||
+      post.category.toLowerCase().includes(keyword.toLocaleLowerCase())
+  );
+
+  res.json(results);
+});
+
+app.get("/posts/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const post = blogPosts.find((post) => post.id === id);
+
+  if (!post) {
+    return res.status(404).json({ error: "Blog post not found" });
+  }
+
+  res.json(post);
+});
+
 app.listen(port, () => {
   console.log(`Server is running at ${port}`);
 });
