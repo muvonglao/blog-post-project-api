@@ -17,6 +17,7 @@ app.get("/posts", (req, res) => {
     const page = Number(req.query.page) || 1;
     const limit = Number(req.query.limit) || 6;
     const category = req.query.category || "";
+    const keyword = req.query.keyword || "";
 
     const safePage = Math.max(1, page);
     const safeLimit = Math.max(1, Math.min(100, limit));
@@ -25,6 +26,16 @@ app.get("/posts", (req, res) => {
     if (category) {
       filteredPosts = blogPosts.filter(
         (post) => post.category.toLowerCase() === category.toLowerCase()
+      );
+    }
+
+    if (keyword) {
+      filteredPosts = filteredPosts.filter(
+        (post) =>
+          post.title.toLowerCase().includes(keyword.toLowerCase()) ||
+          post.description.toLowerCase().includes(keyword.toLowerCase()) ||
+          post.content.toLowerCase().includes(keyword.toLowerCase()) ||
+          post.category.toLowerCase().includes(keyword.toLowerCase())
       );
     }
 
@@ -53,24 +64,6 @@ app.get("/posts", (req, res) => {
       message: e.message,
     });
   }
-});
-
-app.get("/search", (req, res) => {
-  const { keyword } = req.query;
-
-  if (!keyword) {
-    return res.status(400).json({ error: "Keyword is required" });
-  }
-
-  const results = blogPosts.filter(
-    (post) =>
-      post.title.toLowerCase().includes(keyword.toLowerCase()) ||
-      post.description.toLowerCase().includes(keyword.toLowerCase()) ||
-      post.content.toLowerCase().includes(keyword.toLowerCase()) ||
-      post.category.toLowerCase().includes(keyword.toLocaleLowerCase())
-  );
-
-  res.json(results);
 });
 
 app.get("/posts/:id", (req, res) => {
