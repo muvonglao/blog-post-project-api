@@ -2,7 +2,7 @@ export const blogPosts = [
   {
     id: 1,
     image:
-      "https://s3-alpha-sig.figma.com/img/3ea2/8bcb/636d99b02902d27079ff42418e0b9b97?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kbthyRchIEbZxwN1tT2Hoq898Q6b0OhuGwi4gsu90-lmoiR3DxxR5v9M1-Euf6lb81R4BDB4EBt3Izh91WQk9nbtOgATEXdZdx7fm0-wUlIRIeFlLeUSoQDtInY5Rh5oTELjdAgQcOfd0hK8Bj0i0tM2tFJED-33m22so99x3XJw0cwCXd4Da~nZHAZN50bfkEXeCUqWys0JW0GpSD9TgW6~ircdefm0yyTac9CjGtjEjYUCRkyTh3XA4j~lk4CCJPOYCvw2pd71e8yLxBtolpimkCVxij1JkeSSSpmqjDa8LN3839kFylChyVXtpqzz3xxQbWjrtIH9O9-weRFbMQ__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/e739huvlalbfz9eynysc.jpg",
     category: "General",
     title: "The Art of Mindfulness: Finding Peace in a Busy World",
     description:
@@ -16,7 +16,7 @@ export const blogPosts = [
   {
     id: 2,
     image:
-      "https://s3-alpha-sig.figma.com/img/085c/40c6/7c3a6f7888930163044b762643a2adfb?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X-6Do8usip5RkIiPAuIoNGqLayCcyEZkCpbH-U36mUwl2eqCHg81aAHgmiLntxhe8p1xFl5ZZoBvZNdnWMaYdHQr8~FsTv9ABhranvZRs8V6ag3kuN8uYqpcGE3D9BOSMcoBNJxKNym7IXnFIHK-wEIPz6RZPP2DSFHVDGfFGwuU9bgDHgcq3-ugebHvyTYvS8ra9OSlDsX5OJG06n7jvMPuAfdB-vcfjW~oZC4t8FOkWUVrghUVspAo~xACNYPA35Ot9PoPgTRgfDMUwPjYJOuiyR574YYxdT9Xx~UbL-iqw~aadTJLj25xiWfKTS550PlYkqdvE8WK5QvIrqYIoQ__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/gsutzgam24abrvgee9r4.jpg",
     category: "Cat",
     title: "The Secret Language of Cats: Decoding Feline Communication",
     description:
@@ -30,7 +30,7 @@ export const blogPosts = [
   {
     id: 3,
     image:
-      "https://s3-alpha-sig.figma.com/img/ee2a/e013/0178bca64042d760c8d75e28e180f261?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Uh7qzb1WFv9rEROovOkwl38IXs18Upp-PwTa1~iQergqlWiH03XrH4jCxK8SNAuw0hbFMyuf0snpugYqf3T~zaSxE-tQn87lGi9Qp5iu0hjoA2n5ybPtMYWLdMlSDQ61sTGufPJIOxrphlX48a43jRhx3r~Uf5iHdELuZ7TX4jpuobx9B6yzgCjtQ985~5PnjdqwJs6YY092q9U6MeLd-k~Omdl-LHlwFm5tlPW3ME-vzjUAwdgdnxm7JfuKOUj4B3e9GWDPfGhBtLIpoNUNEKiYJGMzCAwqYsrtcn1b~9v7jNcBX18D1fRFuzs6Xn4DOn3Nato8tPybyoO5mSx26Q__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/zzye4nxfm3pmh81z7hni.jpg",
     category: "Inspiration",
     title: "Embracing Change: How to Thrive in Times of Transition",
     description:
@@ -44,7 +44,7 @@ export const blogPosts = [
   {
     id: 4,
     image:
-      "https://s3-alpha-sig.figma.com/img/5bf3/1602/8a30467fa4174e3233e251963ed9a004?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AVsQVW-kva~FlzO4nSjlHibRYnMN5XsYDiyVuFmq9uv-3poiWUVun7jNExP7SjxD1fAgmUTbH8973f5F1muqQuV~Q6e8z5TVEa3RjC-wtg8nyxn5Op4fQMBe9ueW0auW5eZFDXlFTj-11CO6DLWGzT5sJTxOcvOm8yFXFF9G93cd9pXMD1ZAH3lsjoYLxPyaMW3i8uIVx5n5iCZ1QlIxrIcq5ci1SP54nx9F72mAOv7s8-JRvpXt~54bgBhaR68XM8ca0~XhgULFcIL3TOSVbtjulXujwMuqo4xn2~-VFE9kbydNXki8Cn1WZ9ORmyNqvAxazYpHsQo2RVNroaS5Wg__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/e0haxst38li4g8i0vpsr.jpg",
     category: "General",
     title: "The Future of Work: Adapting to a Digital-First Economy",
     description:
@@ -58,7 +58,7 @@ export const blogPosts = [
   {
     id: 5,
     image:
-      "https://s3-alpha-sig.figma.com/img/3589/63c1/0a192fe8b6bbd21181cdc2b591296245?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KRwXMlNxdm0m3xxzjbeK1DdyBG6suZAq1zSavCLP-ED6AKjyFbbmGr2vVFsnb1wdugu0ZIMH6RDGLBw2Y7Q9zn9gA7ABicwhaf5OokhisrEfeDdFbDyebl9i5zmMKwfhGukWCeQa2Vhzs7l-CaBWWll6xw5MnB1asJQq8cYohiFqRpAn4a7~XKfXASVOhT5zg3BgXxTMf~rzffLnk4dvt5lRdCdZboqM1FTzUieTrVZe49e6IOdbRmvEwKYKc31fd6kE-2yXISv71s2BSC6GG4FNejH4tzaIjSge3zqUdw-3zbjmGhSBgk6mp~Qc3w0JH~okBaq~D~JGMg0tgsvHUw__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/g8qpepvgnz6gioylyhrz.jpg",
     category: "Inspiration",
     title: "The Power of Habits: Small Changes, Big Results",
     description:
@@ -72,7 +72,7 @@ export const blogPosts = [
   {
     id: 6,
     image:
-      "https://s3-alpha-sig.figma.com/img/45c6/7f8b/7a6762ad94ce1df80151ee24400434ce?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OSTuwrBPqU4J0fBAF5vYQdBccoG9XMCYhx5gyDWJrd2irDpPszQOZCDIMtEcjHs8tyJtv76Zvi~f4AceQLVg2aKHaMY3OzVKVvUjW~zqsuuwcENnncdkbZfxVv0cm-AoPpMItEnOM~EKhFxbqoC0rglg8MZpSNRY5huB7sKaQ6Lkp1apjSH81VoI~cGShENoTit1Y~Z8ifv-5mUpudyIV~sN41wgZM5Tl4CcOyBso0FAKex3ycpUZUvaYoHYPaapOpoEbLt1pXrpf~RqIonXw6QLGn3QSvVWZxYKUE0~cX6Gg1EOuW95v5CCpl5RsequattyaXKKISbA5Tfl6OsSEg__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/koydfh6jpmzhtxvwein3.jpg",
     category: "Cat",
     title: "Cat Nutrition: A Guide to Feeding Your Feline Friend",
     description:
@@ -86,7 +86,7 @@ export const blogPosts = [
   {
     id: 7,
     image:
-      "https://s3-alpha-sig.figma.com/img/3ea2/8bcb/636d99b02902d27079ff42418e0b9b97?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kbthyRchIEbZxwN1tT2Hoq898Q6b0OhuGwi4gsu90-lmoiR3DxxR5v9M1-Euf6lb81R4BDB4EBt3Izh91WQk9nbtOgATEXdZdx7fm0-wUlIRIeFlLeUSoQDtInY5Rh5oTELjdAgQcOfd0hK8Bj0i0tM2tFJED-33m22so99x3XJw0cwCXd4Da~nZHAZN50bfkEXeCUqWys0JW0GpSD9TgW6~ircdefm0yyTac9CjGtjEjYUCRkyTh3XA4j~lk4CCJPOYCvw2pd71e8yLxBtolpimkCVxij1JkeSSSpmqjDa8LN3839kFylChyVXtpqzz3xxQbWjrtIH9O9-weRFbMQ_",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/e739huvlalbfz9eynysc.jpg",
     category: "General",
     title: "The Art of Mindfulness: Finding Peace in a Busy World",
     description:
@@ -100,7 +100,7 @@ export const blogPosts = [
   {
     id: 8,
     image:
-      "https://s3-alpha-sig.figma.com/img/085c/40c6/7c3a6f7888930163044b762643a2adfb?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X-6Do8usip5RkIiPAuIoNGqLayCcyEZkCpbH-U36mUwl2eqCHg81aAHgmiLntxhe8p1xFl5ZZoBvZNdnWMaYdHQr8~FsTv9ABhranvZRs8V6ag3kuN8uYqpcGE3D9BOSMcoBNJxKNym7IXnFIHK-wEIPz6RZPP2DSFHVDGfFGwuU9bgDHgcq3-ugebHvyTYvS8ra9OSlDsX5OJG06n7jvMPuAfdB-vcfjW~oZC4t8FOkWUVrghUVspAo~xACNYPA35Ot9PoPgTRgfDMUwPjYJOuiyR574YYxdT9Xx~UbL-iqw~aadTJLj25xiWfKTS550PlYkqdvE8WK5QvIrqYIoQ__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/gsutzgam24abrvgee9r4.jpg",
     category: "Cat",
     title: "The Secret Language of Cats: Decoding Feline Communication",
     description:
@@ -114,7 +114,7 @@ export const blogPosts = [
   {
     id: 9,
     image:
-      "https://s3-alpha-sig.figma.com/img/ee2a/e013/0178bca64042d760c8d75e28e180f261?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Uh7qzb1WFv9rEROovOkwl38IXs18Upp-PwTa1~iQergqlWiH03XrH4jCxK8SNAuw0hbFMyuf0snpugYqf3T~zaSxE-tQn87lGi9Qp5iu0hjoA2n5ybPtMYWLdMlSDQ61sTGufPJIOxrphlX48a43jRhx3r~Uf5iHdELuZ7TX4jpuobx9B6yzgCjtQ985~5PnjdqwJs6YY092q9U6MeLd-k~Omdl-LHlwFm5tlPW3ME-vzjUAwdgdnxm7JfuKOUj4B3e9GWDPfGhBtLIpoNUNEKiYJGMzCAwqYsrtcn1b~9v7jNcBX18D1fRFuzs6Xn4DOn3Nato8tPybyoO5mSx26Q__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/zzye4nxfm3pmh81z7hni.jpg",
     category: "Inspiration",
     title: "Embracing Change: How to Thrive in Times of Transition",
     description:
@@ -128,7 +128,7 @@ export const blogPosts = [
   {
     id: 10,
     image:
-      "https://s3-alpha-sig.figma.com/img/5bf3/1602/8a30467fa4174e3233e251963ed9a004?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AVsQVW-kva~FlzO4nSjlHibRYnMN5XsYDiyVuFmq9uv-3poiWUVun7jNExP7SjxD1fAgmUTbH8973f5F1muqQuV~Q6e8z5TVEa3RjC-wtg8nyxn5Op4fQMBe9ueW0auW5eZFDXlFTj-11CO6DLWGzT5sJTxOcvOm8yFXFF9G93cd9pXMD1ZAH3lsjoYLxPyaMW3i8uIVx5n5iCZ1QlIxrIcq5ci1SP54nx9F72mAOv7s8-JRvpXt~54bgBhaR68XM8ca0~XhgULFcIL3TOSVbtjulXujwMuqo4xn2~-VFE9kbydNXki8Cn1WZ9ORmyNqvAxazYpHsQo2RVNroaS5Wg__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/e0haxst38li4g8i0vpsr.jpg",
     category: "General",
     title: "The Future of Work: Adapting to a Digital-First Economy",
     description:
@@ -142,7 +142,7 @@ export const blogPosts = [
   {
     id: 11,
     image:
-      "https://s3-alpha-sig.figma.com/img/3589/63c1/0a192fe8b6bbd21181cdc2b591296245?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KRwXMlNxdm0m3xxzjbeK1DdyBG6suZAq1zSavCLP-ED6AKjyFbbmGr2vVFsnb1wdugu0ZIMH6RDGLBw2Y7Q9zn9gA7ABicwhaf5OokhisrEfeDdFbDyebl9i5zmMKwfhGukWCeQa2Vhzs7l-CaBWWll6xw5MnB1asJQq8cYohiFqRpAn4a7~XKfXASVOhT5zg3BgXxTMf~rzffLnk4dvt5lRdCdZboqM1FTzUieTrVZe49e6IOdbRmvEwKYKc31fd6kE-2yXISv71s2BSC6GG4FNejH4tzaIjSge3zqUdw-3zbjmGhSBgk6mp~Qc3w0JH~okBaq~D~JGMg0tgsvHUw__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/g8qpepvgnz6gioylyhrz.jpg",
     category: "Inspiration",
     title: "The Power of Habits: Small Changes, Big Results",
     description:
@@ -156,7 +156,7 @@ export const blogPosts = [
   {
     id: 12,
     image:
-      "https://s3-alpha-sig.figma.com/img/45c6/7f8b/7a6762ad94ce1df80151ee24400434ce?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OSTuwrBPqU4J0fBAF5vYQdBccoG9XMCYhx5gyDWJrd2irDpPszQOZCDIMtEcjHs8tyJtv76Zvi~f4AceQLVg2aKHaMY3OzVKVvUjW~zqsuuwcENnncdkbZfxVv0cm-AoPpMItEnOM~EKhFxbqoC0rglg8MZpSNRY5huB7sKaQ6Lkp1apjSH81VoI~cGShENoTit1Y~Z8ifv-5mUpudyIV~sN41wgZM5Tl4CcOyBso0FAKex3ycpUZUvaYoHYPaapOpoEbLt1pXrpf~RqIonXw6QLGn3QSvVWZxYKUE0~cX6Gg1EOuW95v5CCpl5RsequattyaXKKISbA5Tfl6OsSEg__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/koydfh6jpmzhtxvwein3.jpg",
     category: "Cat",
     title: "Cat Nutrition: A Guide to Feeding Your Feline Friend",
     description:
@@ -170,7 +170,7 @@ export const blogPosts = [
   {
     id: 13,
     image:
-      "https://s3-alpha-sig.figma.com/img/3ea2/8bcb/636d99b02902d27079ff42418e0b9b97?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kbthyRchIEbZxwN1tT2Hoq898Q6b0OhuGwi4gsu90-lmoiR3DxxR5v9M1-Euf6lb81R4BDB4EBt3Izh91WQk9nbtOgATEXdZdx7fm0-wUlIRIeFlLeUSoQDtInY5Rh5oTELjdAgQcOfd0hK8Bj0i0tM2tFJED-33m22so99x3XJw0cwCXd4Da~nZHAZN50bfkEXeCUqWys0JW0GpSD9TgW6~ircdefm0yyTac9CjGtjEjYUCRkyTh3XA4j~lk4CCJPOYCvw2pd71e8yLxBtolpimkCVxij1JkeSSSpmqjDa8LN3839kFylChyVXtpqzz3xxQbWjrtIH9O9-weRFbMQ_",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/e739huvlalbfz9eynysc.jpg",
     category: "General",
     title: "The Art of Mindfulness: Finding Peace in a Busy World",
     description:
@@ -184,7 +184,7 @@ export const blogPosts = [
   {
     id: 14,
     image:
-      "https://s3-alpha-sig.figma.com/img/085c/40c6/7c3a6f7888930163044b762643a2adfb?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X-6Do8usip5RkIiPAuIoNGqLayCcyEZkCpbH-U36mUwl2eqCHg81aAHgmiLntxhe8p1xFl5ZZoBvZNdnWMaYdHQr8~FsTv9ABhranvZRs8V6ag3kuN8uYqpcGE3D9BOSMcoBNJxKNym7IXnFIHK-wEIPz6RZPP2DSFHVDGfFGwuU9bgDHgcq3-ugebHvyTYvS8ra9OSlDsX5OJG06n7jvMPuAfdB-vcfjW~oZC4t8FOkWUVrghUVspAo~xACNYPA35Ot9PoPgTRgfDMUwPjYJOuiyR574YYxdT9Xx~UbL-iqw~aadTJLj25xiWfKTS550PlYkqdvE8WK5QvIrqYIoQ__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/gsutzgam24abrvgee9r4.jpg",
     category: "Cat",
     title: "The Secret Language of Cats: Decoding Feline Communication",
     description:
@@ -198,7 +198,7 @@ export const blogPosts = [
   {
     id: 15,
     image:
-      "https://s3-alpha-sig.figma.com/img/ee2a/e013/0178bca64042d760c8d75e28e180f261?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Uh7qzb1WFv9rEROovOkwl38IXs18Upp-PwTa1~iQergqlWiH03XrH4jCxK8SNAuw0hbFMyuf0snpugYqf3T~zaSxE-tQn87lGi9Qp5iu0hjoA2n5ybPtMYWLdMlSDQ61sTGufPJIOxrphlX48a43jRhx3r~Uf5iHdELuZ7TX4jpuobx9B6yzgCjtQ985~5PnjdqwJs6YY092q9U6MeLd-k~Omdl-LHlwFm5tlPW3ME-vzjUAwdgdnxm7JfuKOUj4B3e9GWDPfGhBtLIpoNUNEKiYJGMzCAwqYsrtcn1b~9v7jNcBX18D1fRFuzs6Xn4DOn3Nato8tPybyoO5mSx26Q__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/zzye4nxfm3pmh81z7hni.jpg",
     category: "Inspiration",
     title: "Embracing Change: How to Thrive in Times of Transition",
     description:
@@ -212,7 +212,7 @@ export const blogPosts = [
   {
     id: 16,
     image:
-      "https://s3-alpha-sig.figma.com/img/5bf3/1602/8a30467fa4174e3233e251963ed9a004?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AVsQVW-kva~FlzO4nSjlHibRYnMN5XsYDiyVuFmq9uv-3poiWUVun7jNExP7SjxD1fAgmUTbH8973f5F1muqQuV~Q6e8z5TVEa3RjC-wtg8nyxn5Op4fQMBe9ueW0auW5eZFDXlFTj-11CO6DLWGzT5sJTxOcvOm8yFXFF9G93cd9pXMD1ZAH3lsjoYLxPyaMW3i8uIVx5n5iCZ1QlIxrIcq5ci1SP54nx9F72mAOv7s8-JRvpXt~54bgBhaR68XM8ca0~XhgULFcIL3TOSVbtjulXujwMuqo4xn2~-VFE9kbydNXki8Cn1WZ9ORmyNqvAxazYpHsQo2RVNroaS5Wg__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/e0haxst38li4g8i0vpsr.jpg",
     category: "General",
     title: "The Future of Work: Adapting to a Digital-First Economy",
     description:
@@ -226,7 +226,7 @@ export const blogPosts = [
   {
     id: 17,
     image:
-      "https://s3-alpha-sig.figma.com/img/3589/63c1/0a192fe8b6bbd21181cdc2b591296245?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KRwXMlNxdm0m3xxzjbeK1DdyBG6suZAq1zSavCLP-ED6AKjyFbbmGr2vVFsnb1wdugu0ZIMH6RDGLBw2Y7Q9zn9gA7ABicwhaf5OokhisrEfeDdFbDyebl9i5zmMKwfhGukWCeQa2Vhzs7l-CaBWWll6xw5MnB1asJQq8cYohiFqRpAn4a7~XKfXASVOhT5zg3BgXxTMf~rzffLnk4dvt5lRdCdZboqM1FTzUieTrVZe49e6IOdbRmvEwKYKc31fd6kE-2yXISv71s2BSC6GG4FNejH4tzaIjSge3zqUdw-3zbjmGhSBgk6mp~Qc3w0JH~okBaq~D~JGMg0tgsvHUw__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/g8qpepvgnz6gioylyhrz.jpg",
     category: "Inspiration",
     title: "The Power of Habits: Small Changes, Big Results",
     description:
@@ -240,7 +240,7 @@ export const blogPosts = [
   {
     id: 18,
     image:
-      "https://s3-alpha-sig.figma.com/img/45c6/7f8b/7a6762ad94ce1df80151ee24400434ce?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OSTuwrBPqU4J0fBAF5vYQdBccoG9XMCYhx5gyDWJrd2irDpPszQOZCDIMtEcjHs8tyJtv76Zvi~f4AceQLVg2aKHaMY3OzVKVvUjW~zqsuuwcENnncdkbZfxVv0cm-AoPpMItEnOM~EKhFxbqoC0rglg8MZpSNRY5huB7sKaQ6Lkp1apjSH81VoI~cGShENoTit1Y~Z8ifv-5mUpudyIV~sN41wgZM5Tl4CcOyBso0FAKex3ycpUZUvaYoHYPaapOpoEbLt1pXrpf~RqIonXw6QLGn3QSvVWZxYKUE0~cX6Gg1EOuW95v5CCpl5RsequattyaXKKISbA5Tfl6OsSEg__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/koydfh6jpmzhtxvwein3.jpg",
     category: "Cat",
     title: "Cat Nutrition: A Guide to Feeding Your Feline Friend",
     description:
@@ -254,7 +254,7 @@ export const blogPosts = [
   {
     id: 19,
     image:
-      "https://s3-alpha-sig.figma.com/img/3ea2/8bcb/636d99b02902d27079ff42418e0b9b97?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kbthyRchIEbZxwN1tT2Hoq898Q6b0OhuGwi4gsu90-lmoiR3DxxR5v9M1-Euf6lb81R4BDB4EBt3Izh91WQk9nbtOgATEXdZdx7fm0-wUlIRIeFlLeUSoQDtInY5Rh5oTELjdAgQcOfd0hK8Bj0i0tM2tFJED-33m22so99x3XJw0cwCXd4Da~nZHAZN50bfkEXeCUqWys0JW0GpSD9TgW6~ircdefm0yyTac9CjGtjEjYUCRkyTh3XA4j~lk4CCJPOYCvw2pd71e8yLxBtolpimkCVxij1JkeSSSpmqjDa8LN3839kFylChyVXtpqzz3xxQbWjrtIH9O9-weRFbMQ_",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/e739huvlalbfz9eynysc.jpg",
     category: "General",
     title: "The Art of Mindfulness: Finding Peace in a Busy World",
     description:
@@ -268,7 +268,7 @@ export const blogPosts = [
   {
     id: 20,
     image:
-      "https://s3-alpha-sig.figma.com/img/085c/40c6/7c3a6f7888930163044b762643a2adfb?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X-6Do8usip5RkIiPAuIoNGqLayCcyEZkCpbH-U36mUwl2eqCHg81aAHgmiLntxhe8p1xFl5ZZoBvZNdnWMaYdHQr8~FsTv9ABhranvZRs8V6ag3kuN8uYqpcGE3D9BOSMcoBNJxKNym7IXnFIHK-wEIPz6RZPP2DSFHVDGfFGwuU9bgDHgcq3-ugebHvyTYvS8ra9OSlDsX5OJG06n7jvMPuAfdB-vcfjW~oZC4t8FOkWUVrghUVspAo~xACNYPA35Ot9PoPgTRgfDMUwPjYJOuiyR574YYxdT9Xx~UbL-iqw~aadTJLj25xiWfKTS550PlYkqdvE8WK5QvIrqYIoQ__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/gsutzgam24abrvgee9r4.jpg",
     category: "Cat",
     title: "The Secret Language of Cats: Decoding Feline Communication",
     description:
@@ -282,7 +282,7 @@ export const blogPosts = [
   {
     id: 21,
     image:
-      "https://s3-alpha-sig.figma.com/img/ee2a/e013/0178bca64042d760c8d75e28e180f261?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Uh7qzb1WFv9rEROovOkwl38IXs18Upp-PwTa1~iQergqlWiH03XrH4jCxK8SNAuw0hbFMyuf0snpugYqf3T~zaSxE-tQn87lGi9Qp5iu0hjoA2n5ybPtMYWLdMlSDQ61sTGufPJIOxrphlX48a43jRhx3r~Uf5iHdELuZ7TX4jpuobx9B6yzgCjtQ985~5PnjdqwJs6YY092q9U6MeLd-k~Omdl-LHlwFm5tlPW3ME-vzjUAwdgdnxm7JfuKOUj4B3e9GWDPfGhBtLIpoNUNEKiYJGMzCAwqYsrtcn1b~9v7jNcBX18D1fRFuzs6Xn4DOn3Nato8tPybyoO5mSx26Q__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/zzye4nxfm3pmh81z7hni.jpg",
     category: "Inspiration",
     title: "Embracing Change: How to Thrive in Times of Transition",
     description:
@@ -296,7 +296,7 @@ export const blogPosts = [
   {
     id: 22,
     image:
-      "https://s3-alpha-sig.figma.com/img/5bf3/1602/8a30467fa4174e3233e251963ed9a004?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AVsQVW-kva~FlzO4nSjlHibRYnMN5XsYDiyVuFmq9uv-3poiWUVun7jNExP7SjxD1fAgmUTbH8973f5F1muqQuV~Q6e8z5TVEa3RjC-wtg8nyxn5Op4fQMBe9ueW0auW5eZFDXlFTj-11CO6DLWGzT5sJTxOcvOm8yFXFF9G93cd9pXMD1ZAH3lsjoYLxPyaMW3i8uIVx5n5iCZ1QlIxrIcq5ci1SP54nx9F72mAOv7s8-JRvpXt~54bgBhaR68XM8ca0~XhgULFcIL3TOSVbtjulXujwMuqo4xn2~-VFE9kbydNXki8Cn1WZ9ORmyNqvAxazYpHsQo2RVNroaS5Wg__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/e0haxst38li4g8i0vpsr.jpg",
     category: "General",
     title: "The Future of Work: Adapting to a Digital-First Economy",
     description:
@@ -310,7 +310,7 @@ export const blogPosts = [
   {
     id: 23,
     image:
-      "https://s3-alpha-sig.figma.com/img/3589/63c1/0a192fe8b6bbd21181cdc2b591296245?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KRwXMlNxdm0m3xxzjbeK1DdyBG6suZAq1zSavCLP-ED6AKjyFbbmGr2vVFsnb1wdugu0ZIMH6RDGLBw2Y7Q9zn9gA7ABicwhaf5OokhisrEfeDdFbDyebl9i5zmMKwfhGukWCeQa2Vhzs7l-CaBWWll6xw5MnB1asJQq8cYohiFqRpAn4a7~XKfXASVOhT5zg3BgXxTMf~rzffLnk4dvt5lRdCdZboqM1FTzUieTrVZe49e6IOdbRmvEwKYKc31fd6kE-2yXISv71s2BSC6GG4FNejH4tzaIjSge3zqUdw-3zbjmGhSBgk6mp~Qc3w0JH~okBaq~D~JGMg0tgsvHUw__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/g8qpepvgnz6gioylyhrz.jpg",
     category: "Inspiration",
     title: "The Power of Habits: Small Changes, Big Results",
     description:
@@ -324,7 +324,7 @@ export const blogPosts = [
   {
     id: 24,
     image:
-      "https://s3-alpha-sig.figma.com/img/45c6/7f8b/7a6762ad94ce1df80151ee24400434ce?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OSTuwrBPqU4J0fBAF5vYQdBccoG9XMCYhx5gyDWJrd2irDpPszQOZCDIMtEcjHs8tyJtv76Zvi~f4AceQLVg2aKHaMY3OzVKVvUjW~zqsuuwcENnncdkbZfxVv0cm-AoPpMItEnOM~EKhFxbqoC0rglg8MZpSNRY5huB7sKaQ6Lkp1apjSH81VoI~cGShENoTit1Y~Z8ifv-5mUpudyIV~sN41wgZM5Tl4CcOyBso0FAKex3ycpUZUvaYoHYPaapOpoEbLt1pXrpf~RqIonXw6QLGn3QSvVWZxYKUE0~cX6Gg1EOuW95v5CCpl5RsequattyaXKKISbA5Tfl6OsSEg__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/koydfh6jpmzhtxvwein3.jpg",
     category: "Cat",
     title: "Cat Nutrition: A Guide to Feeding Your Feline Friend",
     description:
@@ -338,7 +338,7 @@ export const blogPosts = [
   {
     id: 25,
     image:
-      "https://s3-alpha-sig.figma.com/img/3ea2/8bcb/636d99b02902d27079ff42418e0b9b97?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kbthyRchIEbZxwN1tT2Hoq898Q6b0OhuGwi4gsu90-lmoiR3DxxR5v9M1-Euf6lb81R4BDB4EBt3Izh91WQk9nbtOgATEXdZdx7fm0-wUlIRIeFlLeUSoQDtInY5Rh5oTELjdAgQcOfd0hK8Bj0i0tM2tFJED-33m22so99x3XJw0cwCXd4Da~nZHAZN50bfkEXeCUqWys0JW0GpSD9TgW6~ircdefm0yyTac9CjGtjEjYUCRkyTh3XA4j~lk4CCJPOYCvw2pd71e8yLxBtolpimkCVxij1JkeSSSpmqjDa8LN3839kFylChyVXtpqzz3xxQbWjrtIH9O9-weRFbMQ_",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/e739huvlalbfz9eynysc.jpg",
     category: "General",
     title: "The Art of Mindfulness: Finding Peace in a Busy World",
     description:
@@ -352,7 +352,7 @@ export const blogPosts = [
   {
     id: 26,
     image:
-      "https://s3-alpha-sig.figma.com/img/085c/40c6/7c3a6f7888930163044b762643a2adfb?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X-6Do8usip5RkIiPAuIoNGqLayCcyEZkCpbH-U36mUwl2eqCHg81aAHgmiLntxhe8p1xFl5ZZoBvZNdnWMaYdHQr8~FsTv9ABhranvZRs8V6ag3kuN8uYqpcGE3D9BOSMcoBNJxKNym7IXnFIHK-wEIPz6RZPP2DSFHVDGfFGwuU9bgDHgcq3-ugebHvyTYvS8ra9OSlDsX5OJG06n7jvMPuAfdB-vcfjW~oZC4t8FOkWUVrghUVspAo~xACNYPA35Ot9PoPgTRgfDMUwPjYJOuiyR574YYxdT9Xx~UbL-iqw~aadTJLj25xiWfKTS550PlYkqdvE8WK5QvIrqYIoQ__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/gsutzgam24abrvgee9r4.jpg",
     category: "Cat",
     title: "The Secret Language of Cats: Decoding Feline Communication",
     description:
@@ -366,7 +366,7 @@ export const blogPosts = [
   {
     id: 27,
     image:
-      "https://s3-alpha-sig.figma.com/img/ee2a/e013/0178bca64042d760c8d75e28e180f261?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Uh7qzb1WFv9rEROovOkwl38IXs18Upp-PwTa1~iQergqlWiH03XrH4jCxK8SNAuw0hbFMyuf0snpugYqf3T~zaSxE-tQn87lGi9Qp5iu0hjoA2n5ybPtMYWLdMlSDQ61sTGufPJIOxrphlX48a43jRhx3r~Uf5iHdELuZ7TX4jpuobx9B6yzgCjtQ985~5PnjdqwJs6YY092q9U6MeLd-k~Omdl-LHlwFm5tlPW3ME-vzjUAwdgdnxm7JfuKOUj4B3e9GWDPfGhBtLIpoNUNEKiYJGMzCAwqYsrtcn1b~9v7jNcBX18D1fRFuzs6Xn4DOn3Nato8tPybyoO5mSx26Q__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/zzye4nxfm3pmh81z7hni.jpg",
     category: "Inspiration",
     title: "Embracing Change: How to Thrive in Times of Transition",
     description:
@@ -380,7 +380,7 @@ export const blogPosts = [
   {
     id: 28,
     image:
-      "https://s3-alpha-sig.figma.com/img/5bf3/1602/8a30467fa4174e3233e251963ed9a004?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AVsQVW-kva~FlzO4nSjlHibRYnMN5XsYDiyVuFmq9uv-3poiWUVun7jNExP7SjxD1fAgmUTbH8973f5F1muqQuV~Q6e8z5TVEa3RjC-wtg8nyxn5Op4fQMBe9ueW0auW5eZFDXlFTj-11CO6DLWGzT5sJTxOcvOm8yFXFF9G93cd9pXMD1ZAH3lsjoYLxPyaMW3i8uIVx5n5iCZ1QlIxrIcq5ci1SP54nx9F72mAOv7s8-JRvpXt~54bgBhaR68XM8ca0~XhgULFcIL3TOSVbtjulXujwMuqo4xn2~-VFE9kbydNXki8Cn1WZ9ORmyNqvAxazYpHsQo2RVNroaS5Wg__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/e0haxst38li4g8i0vpsr.jpg",
     category: "General",
     title: "The Future of Work: Adapting to a Digital-First Economy",
     description:
@@ -394,7 +394,7 @@ export const blogPosts = [
   {
     id: 29,
     image:
-      "https://s3-alpha-sig.figma.com/img/3589/63c1/0a192fe8b6bbd21181cdc2b591296245?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KRwXMlNxdm0m3xxzjbeK1DdyBG6suZAq1zSavCLP-ED6AKjyFbbmGr2vVFsnb1wdugu0ZIMH6RDGLBw2Y7Q9zn9gA7ABicwhaf5OokhisrEfeDdFbDyebl9i5zmMKwfhGukWCeQa2Vhzs7l-CaBWWll6xw5MnB1asJQq8cYohiFqRpAn4a7~XKfXASVOhT5zg3BgXxTMf~rzffLnk4dvt5lRdCdZboqM1FTzUieTrVZe49e6IOdbRmvEwKYKc31fd6kE-2yXISv71s2BSC6GG4FNejH4tzaIjSge3zqUdw-3zbjmGhSBgk6mp~Qc3w0JH~okBaq~D~JGMg0tgsvHUw__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/g8qpepvgnz6gioylyhrz.jpg",
     category: "Inspiration",
     title: "The Power of Habits: Small Changes, Big Results",
     description:
@@ -408,7 +408,7 @@ export const blogPosts = [
   {
     id: 30,
     image:
-      "https://s3-alpha-sig.figma.com/img/45c6/7f8b/7a6762ad94ce1df80151ee24400434ce?Expires=1729468800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OSTuwrBPqU4J0fBAF5vYQdBccoG9XMCYhx5gyDWJrd2irDpPszQOZCDIMtEcjHs8tyJtv76Zvi~f4AceQLVg2aKHaMY3OzVKVvUjW~zqsuuwcENnncdkbZfxVv0cm-AoPpMItEnOM~EKhFxbqoC0rglg8MZpSNRY5huB7sKaQ6Lkp1apjSH81VoI~cGShENoTit1Y~Z8ifv-5mUpudyIV~sN41wgZM5Tl4CcOyBso0FAKex3ycpUZUvaYoHYPaapOpoEbLt1pXrpf~RqIonXw6QLGn3QSvVWZxYKUE0~cX6Gg1EOuW95v5CCpl5RsequattyaXKKISbA5Tfl6OsSEg__",
+      "https://res.cloudinary.com/dcbpjtd1r/image/upload/v1728449771/my-blog-post/koydfh6jpmzhtxvwein3.jpg",
     category: "Cat",
     title: "Cat Nutrition: A Guide to Feeding Your Feline Friend",
     description:
